@@ -109,6 +109,35 @@ aside {
 	}
 }
 
+hr.default {
+	border: 0;
+	height: 0;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.readmore {
+	background-color: #2196F3;
+	color: #fafafa !important;
+	border: none;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+	transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+	margin-bottom: 35px;
+	padding: 5px 10px;
+	border-radius: 2px;
+	display: inline-block;
+}
+
+.readmore:hover {
+	background-color: #1976D2;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.readmore:active {
+	background-color: #0D47A1;
+	box-shadow: none;
+}
+
 footer {
 	text-align: left;
 	padding: 15px;

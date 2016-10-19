@@ -2,6 +2,13 @@
 layout: default
 ---
 
-  <h2>Main Page</h2>
+  <h2>Essays in Progress</h2>
 
-  Main content goes here. 
+  {% for post in site.posts %}
+
+  		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+      <time>{{ post.date | date: "%b %-d, %Y" }}</time>
+      {{ post.excerpt }}
+      <a class="readmore" href="{{ post.url }}">Read More</a>
+      <hr class="default">
+  {% endfor %}
