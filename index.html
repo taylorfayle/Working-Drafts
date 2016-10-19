@@ -9,6 +9,6 @@ layout: default
   		<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
       <time>{{ post.date | date: "%b %-d, %Y" }}</time>
       {{ post.excerpt }}
-      <a class="readmore" href="{{ post.url }}">Read More</a>
+      <a class="readmore" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
       <hr class="default">
   {% endfor %}
