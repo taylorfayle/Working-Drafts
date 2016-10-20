@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Hi, I'm Taylor
+title: About
 permalink: /about/
 ---
+
+##Hi, I'm Taylor.
 
 Thanks for visiting. Here's a little about me.
 
