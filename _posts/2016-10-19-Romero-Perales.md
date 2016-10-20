@@ -2,7 +2,7 @@
 layout: post
 title: Faculty Interview - Blending Food History with Monica Perales and Todd Romero
 ---
-This Fall Monica Perales and Todd Romero, associate professors in the UH Department of History, are co-teaching a blended course on food history. Passionate about their subject and exploring new ways to reach their students, I caught up with them to ask how what this course looks like, what challenges they have faced, and how they solved them. Below is an edited transcript of our exchange.
+This Fall [Monica Perales](http://www.uh.edu/class/history/faculty-and-staff/perales_m/) and [Todd Romero](http://www.uh.edu/class/history/faculty-and-staff/romero_t/), associate professors in the UH Department of History, are co-teaching a [blended course](https://en.wikipedia.org/wiki/Blended_learning) on food history. Passionate about their subject and exploring new ways to reach their students, I caught up with them to ask how what this course looks like, what challenges they have faced, and how they solved them. Below is an edited transcript of our exchange.
 
 --------
 
