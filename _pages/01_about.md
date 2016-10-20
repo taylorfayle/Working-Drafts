@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-##Hi, I'm Taylor.
+## Hi, I'm Taylor.
 
 Thanks for visiting. Here's a little about me.
 
@@ -17,5 +17,7 @@ This is an exploratory space where I write about instructional design, pedagogy,
 ### Contact me
 
 Twitter: [@taylorfayle](http://twitter.com/taylorfayle)
+
 Github: [@taylorfayle](https://github.com/taylorfayle)
+
 Email: tmfayle [@] uh [dot] edu
