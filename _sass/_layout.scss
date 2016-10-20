@@ -39,6 +39,14 @@ a:hover {
 	color: $link-hover-color;
 	text-decoration: none;
 }
+
+p {
+	font-family: 'Crimson Text', serif;
+	font-size: 1.15em;
+	line-height: 1.75;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
 header {
 	background: $header;
 	background-image: url('/_images/bg.jpg');
