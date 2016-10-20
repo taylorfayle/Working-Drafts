@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Faculty Interview - Blending Food History with Monica Perales and Todd Romero
+title: Alignment in the Flipped Classroom
 ---
 
 [![hybrid-alignment](http://www.instruction.uh.edu/wp-content/uploads/2016/08/hybrid-alignment.jpg)](http://www.instruction.uh.edu/wp-content/uploads/2016/08/hybrid-alignment.jpg)
