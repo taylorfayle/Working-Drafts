@@ -11,8 +11,8 @@ For example, if you are forced to use semantically rich heading structures that 
 
 Here's a simple visual example from my own course . I wanted to post some resources that would help students better understand what I meant by "create an argument" in their weekly essays. But when I posted the links and asked myself "How will my students receive this?" it wasn't clear. So I created some hierarchy and scaffolding around the items to explain exactly how the students would use them. Admittedly these are small changes, but if we apply these systematically to a course, they begin to add up.
 
-[![Attempt #1](http://www.instruction.uh.edu/wp-content/uploads/2016/05/accessible-1-300x119.png)](http://www.instruction.uh.edu/wp-content/uploads/2016/05/accessible-1.png)
-[![Attempt #2](http://www.instruction.uh.edu/wp-content/uploads/2016/05/accessible-2-300x204.png)](http://www.instruction.uh.edu/wp-content/uploads/2016/05/accessible-2.png)
+[![Attempt #1](http://www.instruction.uh.edu/wp-content/uploads/2016/05/accessible-1.png)](http://www.instruction.uh.edu/wp-content/uploads/2016/05/accessible-1.png)
+[![Attempt #2](http://www.instruction.uh.edu/wp-content/uploads/2016/05/accessible-2.png)](http://www.instruction.uh.edu/wp-content/uploads/2016/05/accessible-2.png)
 
 ### Do We Need Images at All?
 
@@ -40,7 +40,7 @@ Asking these questions and planning your video before hand will clarify exactly 
 
 ### Broader Implications
 
-All students benefit from designing courses and instructional materials from a place of empathy. But it also seems likely that attending to accessiblity in our courses will help drive innovation in teaching discipline-specific content. This is already happening in the private sector, with tech companies turning to inclusive design, not from fear of legal repercussions, but because "the accessibility problems of today are the mainstream breakthroughs of tomorrow." None other than [**Google**](http://www.fastcodesign.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge) and [**Microsoft**](https://www.fastcodesign.com/3054927/the-big-idea/microsofts-inspiring-bet-on-a-radical-new-type-of-design-thinking) are starting to see disability as an "engine of innovation". "I'm passionate about accessibility," says Julie Andersson, who heads up Google's accessibility efforts, "not just because I believe in a level playing field, but because [inclusive design] makes life more livable for everyone." 
+All students benefit from designing courses and instructional materials from a place of empathy. But it also seems likely that attending to accessiblity in our courses will help drive innovation in teaching discipline-specific content. This is already happening in the private sector, with tech companies turning to inclusive design, not from fear of legal repercussions, but because "the accessibility problems of today are the mainstream breakthroughs of tomorrow." None other than [**Google**](http://www.fastcodesign.com/3060090/how-designing-for-the-disabled-is-giving-google-an-edge) and [**Microsoft**](https://www.fastcodesign.com/3054927/the-big-idea/microsofts-inspiring-bet-on-a-radical-new-type-of-design-thinking) are starting to see disability as an "engine of innovation". "I'm passionate about accessibility," says Julie Andersson, who heads up Google's accessibility efforts, "not just because I believe in a level playing field, but because [inclusive design] makes life more livable for everyone."
 
 <iframe title="PSU Accessible by Design Initiative" src="https://www.youtube.com/embed/RrGDnsHy1ZY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
