@@ -124,6 +124,8 @@ img {
 	max-width: 800px;
 }
 
+img[alt=icon] { width: 50px; }
+
 time {
 	color: #898989;
 }
