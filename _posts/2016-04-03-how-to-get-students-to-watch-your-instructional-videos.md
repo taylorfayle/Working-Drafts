@@ -3,8 +3,8 @@ layout: post
 title: How to Get Students to Watch Your Instructional Videos
 ---
 
-<img style="float: right; max-width: 250px; margin: 0px 0px 15px 15p;" src="http://www.instruction.uh.edu/wp-content/uploads/2016/04/7658181994_61844113f6_k.jpg">
-I often give a presentation to faculty about **[how to integrate video into a course](http://slides.com/taylorfayle/video)**. And while there are a lot of ways to do this, still, the single most frequent type of video found in higher ed courses are lecture videos where instructors deliver some type of prepared speech. So I typically end the talk with a few best practices for how to get students to watch this type of video. As with any element of a course, whether it’s how you communicate digitally, what your syllabus says and looks like, or what type of activities employed to cultivate student learning, it's necessary to think hard about how video content fits into the overall course narrative and structure. To that end, here are a few points that can help guide the way you create and deploy video in your course.[divider]
+<img style="float: right; max-width: 200px; margin: 0px 0px 15px 15p;" src="http://www.instruction.uh.edu/wp-content/uploads/2016/04/7658181994_61844113f6_k.jpg">
+I often give a presentation to faculty about **[how to integrate video into a course](http://slides.com/taylorfayle/video)**. And while there are a lot of ways to do this, still, the single most frequent type of video found in higher ed courses are lecture videos where instructors deliver some type of prepared speech. So I typically end the talk with a few best practices for how to get students to watch this type of video. As with any element of a course, whether it’s how you communicate digitally, what your syllabus says and looks like, or what type of activities employed to cultivate student learning, it's necessary to think hard about how video content fits into the overall course narrative and structure. To that end, here are a few points that can help guide the way you create and deploy video in your course.
 
 ### Be Relevant
 
