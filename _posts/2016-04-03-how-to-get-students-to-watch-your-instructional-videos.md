@@ -24,7 +24,9 @@ Concise does not necessarily mean short. Rather, it is the difference between de
 
 ### Be Transparent
 
-A crucial way to acheive concision and maintain student engagement is to be transparent about the content of your videos. Forecast where you are headed, signpost changes in direction, reinforce main ideas with examples and repetition, conclude and summarize the key features of the content covered. Also, you can facilitate attentive viewing by posing questions and encouraging prediction. Here is a great example of how this is done:<iframe src="https://www.youtube.com/embed/RAhB5b9M294" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+A crucial way to acheive concision and maintain student engagement is to be transparent about the content of your videos. Forecast where you are headed, signpost changes in direction, reinforce main ideas with examples and repetition, conclude and summarize the key features of the content covered. Also, you can facilitate attentive viewing by posing questions and encouraging prediction. Here is a great example of how this is done:
+
+<iframe src="https://www.youtube.com/embed/RAhB5b9M294" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ### Be Human
 
@@ -32,4 +34,6 @@ One thing that we can't ignore when talking about video is the risk involved. Th
 
 ### Iterate Endlessly
 
-Try, fail, try again. You probably won't be satisfied with your first videos, but the more you create them, the easier they will get. Also, remember that making videos is fun, so don't forget to enjoy the process! _Image courtesy of Flickr user [CollegeDegrees360](https://www.flickr.com/photos/83633410@N07/7658181994/)_ [divider]
+Try, fail, try again. You probably won't be satisfied with your first videos, but the more you create them, the easier they will get. Also, remember that making videos is fun, so don't forget to enjoy the process!
+
+_Image courtesy of Flickr user [CollegeDegrees360](https://www.flickr.com/photos/83633410@N07/7658181994/)_
