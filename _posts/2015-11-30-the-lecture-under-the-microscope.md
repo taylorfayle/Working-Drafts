@@ -15,32 +15,28 @@ It all started with the early September _New York Times Sunday Review_ piece by 
 
 Molly Worthen, assistant professor of history at the University of North Carolina, Chapel Hill, shot back in the _New York Times Sunday Review_ by taking issue with the fact that lecturing is a passive activity. Instead, she argues, “absorbing a long, complex argument is hard work, requiring students to synthesize, organize and react as they listen.” By abandoning the lecture format, we do those who find absorbing a lecture difficult a great disservice by capitulating to “the worst features of the customer-service mentality that has seeped into the university from the business world.”
 
-https://twitter.com/nytopinion/status/655849078291615744
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Those who want to abolish the lecture course do not understand what a lecture is. <a href="http://t.co/FTBKGzEzrS">http://t.co/FTBKGzEzrS</a> <a href="http://t.co/0YwqpJjfY7">pic.twitter.com/0YwqpJjfY7</a></p>&mdash; NYT Opinion (@nytopinion) <a href="https://twitter.com/nytopinion/status/655849078291615744">October 18, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Damon Linker, senior correspondent at _The Week,_ hails Worthen for taking the bold step in fighting back against proponents of “active,” “student-centered” learning. But Linker goes further by saying that, it’s not just the formal skills learned by students via the lecture process that justify the format, but rather that it’s the best, most efficient way to transmit the body of knowledge possessed by the lecturer.
 
-https://twitter.com/TheWeek/status/656478228211613697
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/DamonLinker">@DamonLinker</a>&#39;s defense of the college lecture: <a href="https://t.co/1eQf21wUbS">https://t.co/1eQf21wUbS</a> <a href="https://t.co/rKWdpDugyY">pic.twitter.com/rKWdpDugyY</a></p>&mdash; The Week (@TheWeek) <a href="https://twitter.com/TheWeek/status/656478228211613697">October 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 _Slate’s_ resident education columnist Rebecca Schuman was perhaps the first to respond negatively to Worthen by calling for professors not to focus on “ideal students” but rather to “include components designed for the average, real, very-much-not-ideal student they will actually meet.”
 
-https://twitter.com/pankisseskafka/status/656871074051702784
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Lectures are great...for ideal students. What about real ones? My latest on <a href="https://twitter.com/Slate">@Slate</a> <a href="https://t.co/gDuLThdcqs">https://t.co/gDuLThdcqs</a></p>&mdash; Rebecca Schuman (@pankisseskafka) <a href="https://twitter.com/pankisseskafka/status/656871074051702784">October 21, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Derek Bruff, director of the Center for Teaching at Vanderbilt, adds a layer of nuance to the debate by focusing on what exactly we mean by lecturing. If what we mean by lecturing is “continuous exposition by the teacher,” then we have a less effective way to “promote thought, change attitudes, inspire interest, or teach skills.” However most lecturers, Bruff notes, do more than “continuous exposition” when teaching, including engaging students in discussion and interaction amidst their own well-timed exposition.
 
-https://twitter.com/derekbruff/status/643746877007986688
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New blog post: In Defense of Continuous Exposition by the Teacher <a href="http://t.co/puBTEiOBXs">http://t.co/puBTEiOBXs</a></p>&mdash; Derek Bruff (@derekbruff) <a href="https://twitter.com/derekbruff/status/643746877007986688">September 15, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Adding to Bruff’s clarification, Josh Eyler from the Rice Center for Teaching Excellence, takes issue with Worthen’s either/or approach to classroom pedagogy. In a paragraph-by-paragraph analysis of the Worthen piece, Eyler argues that we need to take seriously the findings of many studies that prove Active learning methods work. At the very least, we need to entertain multimodal approaches. “[D]ifferent students,” he writes, "need different strategies in order to learn most effectively.  If we approach education with a one-size-fits-all model, we are sure to fail our students.”
 
-https://twitter.com/joshua_r_eyler/status/656547330934464512
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1/ Well, I responded to That Lecture Essay. &quot;Active Learning Is Not Our Enemy: A Response to Molly Worthen&quot; <a href="https://t.co/3ztwO3UxTl">https://t.co/3ztwO3UxTl</a></p>&mdash; Joshua Eyler (@joshua_r_eyler) <a href="https://twitter.com/joshua_r_eyler/status/656547330934464512">October 20, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Adam P. Newman also takes issue as well with Worthen’s argument, but from the angle of students with disabilities, arguing that “universal design” and “flipped classrooms” might allow such students to “more fully engage and participate in their classrooms”. (Also, his Twitter-essay format is interesting in its own right.)
 
-https://twitter.com/AdamPNewman89/status/655882815951638528
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here is a storify of my recent twitter essay on lecture-based pedagogies &amp; students w/ disabilities <a href="http://t.co/kXKCU3eZWV">http://t.co/kXKCU3eZWV</a></p>&mdash; (((Adam P. Newman))) (@AdamPNewman89) <a href="https://twitter.com/AdamPNewman89/status/655882815951638528">October 18, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Finally, Elizabethe Barre argues that perhaps what underlies much of the active-learning vs. lecture argument isn’t really about pedagogy or research findings but rather about what it means to be a teacher at all. Whether we think of the teacher as “author” or as “tutor” will, according to Barre, predict fairly accurately which way we lean in this rapidly intensifying debate.
 
-https://twitter.com/elizabethabarre/status/657578167465480192
-
-We would like to know what _you_ think. What works best in your courses, a lecture format or an active learning approach, or something in between? Share your thoughts in the comments section below.
-
-* * *
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I know I&#39;m late to the game, but here&#39;s my take on <a href="https://twitter.com/MollyWorthen">@MollyWorthen</a>&#39;s essay. Tried my best to be charitable! <a href="https://t.co/xEi0KLOxfz">https://t.co/xEi0KLOxfz</a></p>&mdash; Betsy Barre (@elizabethabarre) <a href="https://twitter.com/elizabethabarre/status/657578167465480192">October 23, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
