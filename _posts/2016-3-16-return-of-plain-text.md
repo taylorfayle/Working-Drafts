@@ -17,6 +17,7 @@ Over the past few years, a ton of great plain text editors have appeared for OSX
 Atom
 [![icon](https://avatars1.githubusercontent.com/u/12959900)](http://www.typora.io)
 Typora
+
 [![icon](https://camo.githubusercontent.com/69f040c45f25441989978b046c9c21da987878a3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f796f6e6e657474692d7375626c696d652f677261766974792f69636f6e732f6170702d69636f6e2d6f72616e67652d3130312e706e67)](https://www.sublimetext.com)
 Sublime Text
 [![icon](http://a3.mzstatic.com/us/r30/Purple49/v4/e6/cf/ab/e6cfab9e-2383-a3f0-e989-614196473d1c/icon128-2x.png)](https://bywordapp.com)
