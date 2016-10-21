@@ -17,8 +17,7 @@ UX designers see these moments and intentionally plan for them. This translates 
 
 One way to understand this is to use the concept of cognitive load, or the way in which cognitive resources are directed during learning. [John Sweller](http://link.springer.com/article/10.1023%2FA%3A1022193728205), the educational psychologist who has done extensive research on this topic, describes three types of cognitive load.
 
-*   **Intrinsic cognitive load** is the amount of cognitive resources required to process _the actual information or skills_ you want your students to learn
-
+*   **Intrinsic cognitive load** is the amount of cognitive resources required to process _the actual information or skills_ you want your students to learn.
 *   **Extraneous cognitive load** is the amount of effort and attention required to process _non-essential information_, such as the web interface of an online course, syllabus, handouts, connecting your clicker to a course, etc.
 *   **Germane cognitive load**, while not intrinsic, is nonetheless _directed to the actual course content_, for example, active learning activities, discussions boards, presentations, problem sets, etc.
 
