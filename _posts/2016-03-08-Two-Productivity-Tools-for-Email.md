@@ -1,3 +1,8 @@
+---
+layout: post
+title: Two Productivity Tools for Email
+---
+
 This past weekend Raymond Tomlinson, the man who invented the e-mail, [died at the age of 74](http://www.nytimes.com/2016/03/08/technology/raymond-tomlinson-email-obituary.html). While many of us often loathe what has become the most ubiquitous form of personal communication, Tomlinson's invention shows no signs of diminishing any time soon, regardless of the increasing use of social media and other business communication platforms such as [Slack](https://slack.com) and [Asana](https://asana.com). In this spirit, I thought I would share two services that have seriously helped me manage my inbox: [Unroll.me](https://unroll.me) and [Followupthen.com](https://www.followupthen.com).
 
 ## Unroll.me

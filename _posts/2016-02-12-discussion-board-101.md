@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Discussion Board 101: Conceptual Moves
+title: Discussion Board 101 - Conceptual Moves
 ---
 
 ### Discussion Boards are not Seminars
