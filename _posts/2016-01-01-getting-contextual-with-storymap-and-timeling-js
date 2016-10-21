@@ -1,0 +1,30 @@
+---
+layout: post
+title: Getting Contextual with Timeline and Storymap JS
+---
+
+I often find that one of the most difficult aspects of teaching is moving students from understanding a fact or phenomenon in a detached, analytical frame of mind and toward recognizing such facts and phenomena in their native context. Hubert Dreyfus calls this the movement from novice to proficiency. Instruction begins, he says, "with the instructor decomposing the task environment into context-free features that the beginner can recognize without the desired skill." This often involves rule-following and is overly formal. But by the time proficiency is reached, a student's "theory of the skill, as represented by rules and principles, will gradually be replaced by situational discriminations, accompanied by associated responses."<sup>1</sup> Given the difficulty of this process, I'm always on the lookout for tools that I think will help provide context and make it easier for students to see certain connections in more nuanced situations. [Northwestern University's Knightlab](https://knightlab.northwestern.edu) has offered us two free tools, **Storymap** and **Timeline**, that can be creatively harnessed to move students toward proficiency.
+
+### Storymap
+
+With [Storymap](https://storymap.knightlab.com), you can curate and beautifully display media, including video, audio, images and text, in an Open Street Map that users can navigate, giving meaning to the geography and geographical context to the content. Here's a Storymap I created in conjunction with Dr. Todd Romero for his American History course. He wanted to show students that history is happening all around us, even in the built world and street names right in UH's back yard. In this project, we created a Houston "tour" of the places where formerly enslaved African Americans lived and linked to their images and WPA narratives.
+
+<iframe src="https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/d4c110892a72d04854e03c2cae17666c/formerly-enslaved-houstonians/index.html" width="100%" height="400" frameborder="0"></iframe>
+
+* * *
+
+I can see this being used in a lot of different contexts, such as an economics course to visualize the increasing decentralization of employment centers, or an evolutionary biology course to map early human migration routes with corresponding anatomical changes. The point is that these maps can help students interact with the content in a way that is hard to replicate with traditional media. Art historians are using an offshoot of Storymap called [Gigapixel](https://storymap.knightlab.com/gigapixel/) to help tell stories about photography and art. And here is a great example of Storymap used as a course introduction by Chioke I'Anson from Virginia Commonwealth University: [VCU AFAM 111](http://cdn.knightlab.com/libs/storymapjs/latest/embed/index.html?url=https://940eec087e52329b244ea828a6ab48ada0304b68.googledrive.com/host/0BwIcNndh0q-DWWZPM3ZZYlJrbDA/published.json).
+
+### Timeline
+
+And with [Timeline](http://timeline.knightlab.com), you can contextualize information historically in a much similar way. Here's an example from the Knightlab site:
+
+<iframe src="//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650" width="100%" height="650" frameborder="0"></iframe>
+
+* * *
+
+To use Storymap and Timeline, you'll need a Google account. Once you have that, just login on the [Storymap website](https://storymap.knightlab.com) by clicking "Create" or follow the instructions on the [Timeline website](http://timeline.knightlab.com) to begin creating your project. Both of these tools are very user friendly and Blackboard compatible. Have you used these or similar free tools for your course? If so, share your experience in the comment section below.
+
+* * *
+
+<sup>1</sup>Hubert Dreyfus, _On the Internet_, 2nd edition (New York: Routledge, 2009).

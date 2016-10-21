@@ -28,4 +28,6 @@ All of these moves amount to what Graff, Birkenstein and Durst call “metacomme
 
 * * *
 
-<sup>1</sup>Scott Warnock, _Teaching Writing Online_ (Urbana, IL: NCTE, 2009), p. 70. <sup>2</sup>Gerald Graff, Cathy Birkenstein, and Russell Durst, _They Say, I Say: Moves That Matter in Academic Writing_ (New York: Norton, 2009), p. 126.
+<sup>1</sup>Scott Warnock, _Teaching Writing Online_ (Urbana, IL: NCTE, 2009), p. 70.
+
+<sup>2</sup>Gerald Graff, Cathy Birkenstein, and Russell Durst, _They Say, I Say: Moves That Matter in Academic Writing_ (New York: Norton, 2009), p. 126.
