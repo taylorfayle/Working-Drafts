@@ -11,7 +11,16 @@ The problem with all rich text formatting applications, like Microsoft Word and 
 
 ### These Aren't Your Parents' Plain Text Editors
 
-Over the past few years, a ton of great plain text editors have appeared for OSX and Windows. So I'm not recommending that you go back to Notepad. My recent favorites are Atom (by Github) and Typora (by Abner). Both are free and support [Markdown](https://en.wikipedia.org/wiki/Markdown) (which I will cover in a later post). Most importantly, these editors are beautiful to write in without having to do any formatting.  Both have light and dark themes depending on whether you are working during the day or night and full screen modes for distraction free writing. Other great editors are Sublime Text and Byword (Mac only). [one_fourth][![](https://www.pubnub.com/wp-content/uploads/2015/01/B62xj9FCUAA3YoC.png)](https://atom.io) <span style="font-weight: bold; text-align: center;">Atom</span>[/one_fourth][one_fourth][![](https://avatars1.githubusercontent.com/u/12959900?v=3&s=200)](http://www.typora.io) <span style="font-weight: bold; text-align: center;">Typora</span>[/one_fourth][one_fourth][![](https://camo.githubusercontent.com/69f040c45f25441989978b046c9c21da987878a3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f796f6e6e657474692d7375626c696d652f677261766974792f69636f6e732f6170702d69636f6e2d6f72616e67652d3130312e706e67)](https://www.sublimetext.com) <span style="font-weight: bold; text-align: center;">Sublime Text</span>[/one_fourth][one_fourth][![](http://a3.mzstatic.com/us/r30/Purple49/v4/e6/cf/ab/e6cfab9e-2383-a3f0-e989-614196473d1c/icon128-2x.png)](https://bywordapp.com) <span style="font-weight: bold; text-align: center;">Byword</span>[/one_fourth][clear]
+Over the past few years, a ton of great plain text editors have appeared for OSX and Windows. So I'm not recommending that you go back to Notepad. My recent favorites are Atom (by Github) and Typora (by Abner). Both are free and support [Markdown](https://en.wikipedia.org/wiki/Markdown) (which I will cover in a later post). Most importantly, these editors are beautiful to write in without having to do any formatting.  Both have light and dark themes depending on whether you are working during the day or night and full screen modes for distraction free writing. Other great editors are Sublime Text and Byword (Mac only).
+
+[![](https://www.pubnub.com/wp-content/uploads/2015/01/B62xj9FCUAA3YoC.png)](https://atom.io)
+Atom
+[![](https://avatars1.githubusercontent.com/u/12959900?v=3&s=200)](http://www.typora.io)
+Typora
+[![](https://camo.githubusercontent.com/69f040c45f25441989978b046c9c21da987878a3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f796f6e6e657474692d7375626c696d652f677261766974792f69636f6e732f6170702d69636f6e2d6f72616e67652d3130312e706e67)](https://www.sublimetext.com)
+Sublime Text
+[![](http://a3.mzstatic.com/us/r30/Purple49/v4/e6/cf/ab/e6cfab9e-2383-a3f0-e989-614196473d1c/icon128-2x.png)](https://bywordapp.com)
+Byword
 
 ### Play Nice with the Web
 
