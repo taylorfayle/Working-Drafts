@@ -13,4 +13,4 @@ title: Upping Your Powerpoint Game
 
 In a 2011 talk, Tine Reimers spoke about the idea that a course must cover 10 times the amount of content since the average student retain about 10% of it as "every professor's dilemma and every student's nightmare." Graphically represented, this looks like:
 
-##__EVERYTHINGMUSTBETAUGHTANDEVERYTHINGMUSTBEREMEMBEREDBECAUSEEVERYTHINGISESSENTIAL___
+## __EVERYTHINGMUSTBETAUGHTANDEVERYTHINGMUSTBEREMEMBEREDBECAUSEEVERYTHINGISESSENTIAL__
